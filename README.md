@@ -1,5 +1,7 @@
 # Arabic Coffee Shop E-commerce Website
 
+![Portfolio cover](docs/portfolio/cover.svg)
+
 ![PHP](https://img.shields.io/badge/PHP-PDO-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
