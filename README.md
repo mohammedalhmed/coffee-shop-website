@@ -4,6 +4,20 @@
 
 A complete Arabic **PHP + MySQL e-commerce project** for a coffee and tea store. It includes a customer storefront and an administration area for managing products, users, and orders.
 
+## Portfolio Proof
+
+| Area | Evidence |
+|---|---|
+| **Problem** | Build an Arabic database-backed storefront that covers the core customer and administration workflows of a small e-commerce operation. |
+| **Solution** | PHP/PDO application with authentication, product browsing, cart, wishlist, checkout, orders, and an admin area. |
+| **Storefront** | [home.php](home.php) |
+| **Checkout** | [checkout.php](checkout.php) |
+| **Administration** | [dashboard.php](dashboard.php) · [admin_orders.php](admin_orders.php) |
+| **Database** | [shop_db.sql](shop_db.sql) |
+| **Current status** | Local PHP/MySQL project; the repository does not claim a production deployment. |
+
+
+
 ## Features
 
 - Arabic RTL storefront.
