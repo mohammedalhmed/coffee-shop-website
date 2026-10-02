@@ -14,6 +14,7 @@ permissions:
 
 jobs:
   analyze:
+    if: github.actor != 'dependabot[bot]'
     name: Analyze (php)
     runs-on: ubuntu-latest
     steps:
