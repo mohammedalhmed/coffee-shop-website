@@ -1,5 +1,7 @@
 # Arabic Coffee Shop E-commerce Website
 
+![Coffee shop storefront banner](img/banner.jpg)
+
 A complete Arabic **PHP + MySQL e-commerce project** for a coffee and tea store. It includes a customer storefront and an administration area for managing products, users, and orders.
 
 ## Features
@@ -27,6 +29,18 @@ A complete Arabic **PHP + MySQL e-commerce project** for a coffee and tea store.
 - PHP Sessions
 - SweetAlert
 - Boxicons / Font Awesome
+
+## Customer Flow
+
+```mermaid
+flowchart LR
+    A["Browse Products"] --> B["Product Details"]
+    B --> C["Cart / Wishlist"]
+    C --> D["Checkout"]
+    D --> E["Order"]
+    F["Login / Register"] --> C
+    G["Admin Dashboard"] --> H["Products / Users / Orders"]
+```
 
 ## Project Structure
 
