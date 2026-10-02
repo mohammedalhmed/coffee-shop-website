@@ -1,5 +1,15 @@
 # Arabic Coffee Shop E-commerce Website
 
+![PHP](https://img.shields.io/badge/PHP-PDO-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![RTL](https://img.shields.io/badge/Arabic_RTL-111111?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Local_Project-6B7280?style=flat-square)
+
+**Arabic PHP/MySQL storefront covering core customer and administration workflows.**
+
+[Storefront](home.php) · [Checkout](checkout.php) · [Admin Dashboard](dashboard.php) · [Orders](admin_orders.php) · [Database](shop_db.sql)
+
 ![Coffee shop storefront banner](img/banner.jpg)
 
 A complete Arabic **PHP + MySQL e-commerce project** for a coffee and tea store. It includes a customer storefront and an administration area for managing products, users, and orders.
